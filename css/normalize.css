@@ -353,3 +353,12 @@ td,
 th {
   padding: 0;
 }
+
+#numberOfMints:disabled{
+  background: none;
+}
+
+#numberOfMints2:disabled{
+  /* background: linear-gradient(to right, #402f6a, #342663); */
+  background: none;
+}
